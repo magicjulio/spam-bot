@@ -1,6 +1,5 @@
-# spam-bot
 <h1>Python spamm bot</h1>
-<strong style="color: red">Now as exe avable</strong>
+<strong>Now Available as .EXE for default windows users!</strong> <br>
 A Python based Spam bot wich i wrote myself.
 <strong>Works with Whats app, Discord, Telegramm and many more</strong>
 Comes with full beemovie and titanic script in two txt files
