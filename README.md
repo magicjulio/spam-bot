@@ -1,5 +1,5 @@
 <h1>Python spamm bot</h1>
-<strong>Now Available as .EXE for default windows users!</strong> <br>
+<strong>You only need to download the zip! The py file is for those who need the code!</strong> <br>
 A Python based Spam bot wich i wrote myself.
 <strong>Works with Whats app, Discord, Telegramm and many more</strong>
 Comes with full beemovie and titanic script in two txt files
